@@ -4,7 +4,7 @@
 
 ### - Que es HTML?
 
-Es un lenguaje de marcado de hipertexto, define como se organiza o se dispone la información en una pagina o documento
+Es un lenguaje de marcado de hipertexto, define como se organiza o se dispone la información en una página o documento
 
 ### - Que es CSS?
 
